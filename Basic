@@ -1,0 +1,35 @@
+<!doctype html>
+
+
+<html>
+   <head>
+      <title>Ians Music</title>
+   </head>
+<h1><b>Ians Music</b></h1>
+<p>This is my simple html website and I know its little and small and not good but<br> Im glad because I think I officially have all of the true basics down for this language, so far I think its the<br> easiest language I have learned and I just wanted to put my past couple of hours at work to test my abilities and what I remembered from watching a couple of tutorials! Also I put my soundcloud down at the bottom because I thought you might enjoy. When you have nothing better to do, you can check it out;) </p>
+
+<table border=“2”>
+<tr>
+  <th>kids that play on playground.</th>
+  <th>kids that hate the playground.</th>
+  <th>kids that kind of like it.</th>
+</tr>
+
+<!—- inserting names into tables—>
+
+<tr>  
+  <td>Zack</td>
+  <td>Jade</td>
+  <td>Cody</td>
+</tr>
+<tr>  
+  <td>Tony</td>
+  <td>Ernie</td>
+  <td>Ian</td>
+</tr>
+</table><br>
+
+<p>I didnt want to fix the graph above so please ignore the content in it, it was from when I was creating something stupid but anyways heres my <a href="https://soundcloud.com/ishalongo">soundcloud</a>!!<p>
+
+
+</html>
